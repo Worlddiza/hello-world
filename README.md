@@ -1,5 +1,5 @@
 # hello-world
 new repository
 
-hubot here, I like node.js and coffeescript [that's what I'm made of!].
-I've had tacos on the moon and find them far superior to earth tacos.
+I like the tacos [that's what I'm made of!].
+I'm learning to program and writing.
